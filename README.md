@@ -33,3 +33,9 @@ Signify is an application that helps its users learn the basics of sign language
 
 ## Dataset
 https://drive.google.com/drive/folders/1-KyqHbrDxuno9j7pLNYfABP_CdfnPngs?usp=drive_link
+
+## Frameworks, Libraries, and Services
+- Python
+- TensorFlow
+- Mediapipe
+- OpenCV
