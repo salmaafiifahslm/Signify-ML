@@ -11,3 +11,10 @@ Team ID		      : CH2-PS093 <br />
 (CC)  C247BSY3607 – M. Fadhil Haikal Wardani  <br />
 (MD) A247BSY2164 – M. Asandy Putra  <br />
 (MD) A246BSY2304 – Nafis Ihsan Wiguna  <br />
+
+## Another Path Github
+### Cloud Computing
+https://github.com/Obyyyy/express-api/tree/master
+
+### Mobile Development
+https://github.com/MuhammadAsandyPutra/Signify_CH2_PS093 
