@@ -3,7 +3,7 @@
 Project Name		: Signify: Belajar Bahasa Isyarat <br />
 Team ID		      : CH2-PS093 <br />
 
-Team Member		: <br />
+## Team Member		 <br />
 (ML) M002BSX0422 – Nabila Vira Nandhita <br />
 (ML) M002BSX0747 – Salma Afifah <br />
 (ML) M299BSX0793 – Nizma Dhafin Helmy <br />
