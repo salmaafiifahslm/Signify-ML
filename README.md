@@ -30,3 +30,6 @@ Signify is an application that helps its users learn the basics of sign language
 - Cleansing dataset
 - Architecting Sign Languange Detection Model
 - Model testing and model optimizer
+
+## Dataset
+https://drive.google.com/drive/folders/1-KyqHbrDxuno9j7pLNYfABP_CdfnPngs?usp=drive_link
