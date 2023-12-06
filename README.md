@@ -18,3 +18,15 @@ https://github.com/Obyyyy/express-api/tree/master
 
 ### Mobile Development
 https://github.com/MuhammadAsandyPutra/Signify_CH2_PS093 
+
+## Signify Preview
+Signify is an application that helps its users learn the basics of sign language. This application provides several facilities, including:  <br />
+1. Material for learning sign language <br />
+2. Practice sign language through multiple choice quizzes <br />
+3. Practice sign language through direct practice <br />
+
+## Machine Learning Deliverables
+- Collecting for available datasets <br  />
+- Cleansing dataset
+- Architecting Sign Languange Detection Model
+- Model testing and model optimizer
